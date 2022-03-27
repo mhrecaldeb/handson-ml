@@ -6,7 +6,7 @@ python. It contains the example code and solutions to the exercises in my O'Reil
 
 [![book](http://akamaicovers.oreilly.com/images/9781491962282/cat.gif)](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
 
-**Warning**: there is now a newer edition of this book, please check out [github.com/ageron/handson-ml2](https://github.com/ageron/handson-ml2).
+**Warning**: there is now a newer edition of this book, please check out here [github.com/ageron/handson-ml2](https://github.com/ageron/handson-ml2).
 
 ## Quick Start
 
